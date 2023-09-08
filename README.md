@@ -7,6 +7,12 @@
 # Welcome to our GitHub repository!
  **PiZone Infotech** specializes in providing end-to-end solutions for web and mobile application development, along with robust DevOps practices. Our team is committed to delivering high-quality software solutions that meet your business needs.
 
+Explore our GitHub repositories to access code samples, project templates, and documentation to kickstart your development journey. Feel free to reach out if you have any questions or if you'd like to collaborate with us on exciting projects. Let's build exceptional software together!
+
+Based in India and powered by the **best talent** in the industry, we know how to develop a website / mobile app that will best suit your business. Our vision and commitments have helped several small, medium, and large enterprises achieve their business goals. Our team of experts can guide you in choosing the right tech platform for integration and post-deployment support.
+
+**Our clientele includes renowned companies from across the globe, specifically from the UK, USA, UAE, APAC and more.**
+
 # Web Development:
 Our web development expertise covers a wide range of technologies, including  **HTML5, CSS3, JavaScript, and popular frameworks such as React, Angular, and Vue.js.** Whether you need a dynamic website, a progressive web app (PWA), or a custom web application, we have you covered.
 
@@ -15,12 +21,6 @@ We excel in crafting mobile experiences for both iOS and Android platforms using
 
 # DevOps Services:
 Streamline your software delivery pipeline with our DevOps solutions. We leverage tools like  **Docker, Kubernetes, Jenkins, and Git to automate and optimize your development, testing, and deployment processes.**
-
-Explore our GitHub repositories to access code samples, project templates, and documentation to kickstart your development journey. Feel free to reach out if you have any questions or if you'd like to collaborate with us on exciting projects. Let's build exceptional software together!
-
-Based in India and powered by the **best talent** in the industry, we know how to develop a website / mobile app that will best suit your business. Our vision and commitments have helped several small, medium, and large enterprises achieve their business goals. Our team of experts can guide you in choosing the right tech platform for integration and post-deployment support.
-
-**Our clientele includes renowned companies from across the globe, specifically from the UK, USA, UAE, APAC and more.**
 
 # Technologies
 
