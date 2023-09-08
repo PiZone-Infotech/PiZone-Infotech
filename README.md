@@ -38,6 +38,7 @@ Based in India and powered by the **best talent** in the industry, we know how t
 <img alt="Static Badge" src="https://img.shields.io/badge/AI-DD0031?logo=ai&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Azure%20Dev%20Ops-%230078D7?logo=azuredevops&logoColor=white">
+<img alt="Static Badge" src="https://img.shields.io/badge/AWS%20DevOps-DD0031?logo=amazon-aws&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Sql%20Server-%23CC2927?logo=microsoftsqlserver&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white">
