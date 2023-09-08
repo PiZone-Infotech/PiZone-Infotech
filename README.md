@@ -20,11 +20,8 @@ Explore our GitHub repositories to access code samples, project templates, and d
 #Technologies
 
 <img alt="Static Badge" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white">
-[![.NET](https://img.shields.io/badge/.NET-3.0+-512BD4.svg)](https://dotnet.microsoft.com/)
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-%23F05032?logo=git&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Azure%20Dev%20Ops-%230078D7?logo=azuredevops&logoColor=white">
-[![Flutter Version](https://img.shields.io/badge/Flutter-2.5.0+-blue.svg)](https://flutter.dev/)
-[![React Native Version](https://img.shields.io/badge/React%20Native-[.07+]-blue)](https://reactnative.dev/docs/getting-started)
 <img alt="Static Badge" src="https://img.shields.io/badge/Sql%20Server-%23CC2927?logo=microsoftsqlserver&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?logo=javascript&logoColor=black">
 <img alt="Static Badge" src="https://img.shields.io/badge/CSS-%231572B6?logo=css3&logoColor=white">
@@ -32,4 +29,3 @@ Explore our GitHub repositories to access code samples, project templates, and d
 <img alt="Static Badge" src="https://img.shields.io/badge/Node%20JS-%23339933?logo=nodedotjs&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/React%20JS-%2361DAFB?logo=react&logoColor=white">
 <img alt="Static Badge" src="https://img.shields.io/badge/Mongo%20DB-%2347A248?logo=mongodb&logoColor=white">
-[![AngularJS Version](https://img.shields.io/badge/AngularJS-v1.7.9+-green.svg)](https://angularjs.org/)
