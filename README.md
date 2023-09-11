@@ -54,7 +54,7 @@ Streamline your software delivery pipeline with our DevOps solutions. We leverag
 </div>
 
 # Our Clients
-<div align="center">
+
   ![image](https://github.com/PiZone-Infotech/PiZone-Infotech/assets/39644211/b0f5fe78-9f2e-488d-994d-a510e5591e64)
   ![image](https://github.com/PiZone-Infotech/PiZone-Infotech/assets/39644211/4b595e6f-52ce-4c9a-a13f-4ee0043e0122)
 ![image](https://github.com/PiZone-Infotech/PiZone-Infotech/assets/39644211/7af5d928-31dd-4130-9a3f-e450b86ca1f4)
@@ -70,6 +70,4 @@ Streamline your software delivery pipeline with our DevOps solutions. We leverag
 
 
 
-
-</div>
 
