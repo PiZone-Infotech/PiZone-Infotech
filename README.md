@@ -84,3 +84,29 @@ Streamline your software delivery pipeline with our DevOps solutions. We leverag
     </td>
   </tr>
 </table>
+
+# Awards and Certifications
+Our dedication, expertise, and excellence make us stand out from our competitors.
+
+<table>
+  <tr>
+    <td align="center" valign="middle">
+         <img alt="Clints" width="200"  src="https://github.com/PiZone-Infotech/PiZone-Infotech/assets/39644211/3d5045d0-eb32-4c4a-a1ef-eef7da51d03f">
+    </td>
+    <td align="center" valign="middle">
+        <img alt="Clints" width="200" src="https://github.com/PiZone-Infotech/PiZone-Infotech/assets/39644211/d27b11f8-6232-4d9f-a782-0e0014c1db8a">
+    </td>
+       <td align="center" valign="middle">
+           <img alt="Clints" width="200"  src="https://github.com/PiZone-Infotech/PiZone-Infotech/assets/39644211/2909d470-f180-46a4-bb41-8bf0f8f1ad81">
+    </td>
+       <td align="center" valign="middle">
+        <img alt="Clints" width="200"  src="https://github.com/PiZone-Infotech/PiZone-Infotech/assets/39644211/d8a839a1-1635-4b80-936d-c428d682e972">
+    </td>
+  </tr>
+
+</table>
+
+
+
+
+
